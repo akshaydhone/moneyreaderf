@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:interpolator="@android:anim/accelerate_interpolator" NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:duration="@android:integer/config_mediumAnimTime" NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:fromYDelta="0" NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:toYDelta="50%p"/>

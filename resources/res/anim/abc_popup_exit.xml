@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set NOT_FOUND_NS_0x6_http://schemas.android.com/apk/res/android:shareInterpolator="false">
+    <alpha NOT_FOUND_NS_0x6_http://schemas.android.com/apk/res/android:interpolator="@android:anim/decelerate_interpolator" NOT_FOUND_NS_0x6_http://schemas.android.com/apk/res/android:duration="@integer/abc_config_activityShortDur" NOT_FOUND_NS_0x6_http://schemas.android.com/apk/res/android:fromAlpha="1" NOT_FOUND_NS_0x6_http://schemas.android.com/apk/res/android:toAlpha="0"/>
+</set>

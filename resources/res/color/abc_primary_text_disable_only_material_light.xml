@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item NOT_FOUND_NS_0x2_http://schemas.android.com/apk/res/android:state_enabled="false" NOT_FOUND_NS_0x2_http://schemas.android.com/apk/res/android:color="@color/bright_foreground_disabled_material_light"/>
+    <item NOT_FOUND_NS_0x2_http://schemas.android.com/apk/res/android:color="@color/bright_foreground_material_light"/>
+</selector>

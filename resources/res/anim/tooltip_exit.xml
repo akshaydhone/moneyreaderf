@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha NOT_FOUND_NS_0x5_http://schemas.android.com/apk/res/android:interpolator="@android:interpolator/accelerate_quad" NOT_FOUND_NS_0x5_http://schemas.android.com/apk/res/android:duration="@integer/config_tooltipAnimTime" NOT_FOUND_NS_0x5_http://schemas.android.com/apk/res/android:fromAlpha="1" NOT_FOUND_NS_0x5_http://schemas.android.com/apk/res/android:toAlpha="0"/>

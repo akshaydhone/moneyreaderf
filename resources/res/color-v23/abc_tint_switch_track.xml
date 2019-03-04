@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:state_enabled="false" NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:color="?android:attr/colorForeground" NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:alpha="0.1"/>
+    <item NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:state_checked="true" NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:color="?attr/colorControlActivated" NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:alpha="0.3"/>
+    <item NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:color="?android:attr/colorForeground" NOT_FOUND_NS_0x4_http://schemas.android.com/apk/res/android:alpha="0.3"/>
+</selector>
